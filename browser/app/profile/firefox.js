@@ -1119,13 +1119,13 @@ pref("toolkit.crashreporter.infoURL",
      "https://www.mozilla.org/legal/privacy/firefox.html#crash-reporter");
 
 // base URL for web-based support pages
-pref("app.support.baseURL", "https://github.com/wicknix/InterWebPPC/);
+pref("app.support.baseURL", "https://github.com/WuFdev/InterWebPPC/);
 
 // base url for web-based feedback pages
 #ifdef MOZ_DEV_EDITION
 pref("app.feedback.baseURL", "https://github.com/wicknix/InterWebPPC/);
 #else
-pref("app.feedback.baseURL", "https://github.com/wicknix/InterWebPPC/);
+pref("app.feedback.baseURL", "https://github.com/WuFdev/InterWebPPC/);
 #endif
 
 
